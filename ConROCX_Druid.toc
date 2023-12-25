@@ -1,0 +1,11 @@
+## Title:-|cffFFFFFFConROCX|r- |cffFF7D0ADruid|r
+## Version: 2.0.2
+## Author: Vae 2.0.2 updated by Lith
+## Interface: 30403
+## SavedVariablesPerCharacter: ConROCDruidSpells
+## Dependencies: ConROCX
+## LoadOnDemand: 1
+
+druid_ids.lua
+druid_spellmenu.lua
+druid.lua
